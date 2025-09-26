@@ -27,7 +27,7 @@ Designed with a **responsive layout** and clean UI for practice in front-end dev
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/sanashaju/Netflix-Clone.git
    cd netflix-clone
 2. Open the folder in VS Code
 
